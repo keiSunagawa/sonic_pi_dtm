@@ -3,6 +3,7 @@
 p4 = 1
 p8 = 0.5
 p16 = 0.25
+# recommend bpm 110 by recoding
 use_bpm 120
 
 define :p_s do |p, r|
